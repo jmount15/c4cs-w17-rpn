@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 import operator
-require 'coveralls'
-Coveralls.wear!
+#require 'coveralls'
+#Coveralls.wear!
 
 OPERATORS = {
 	'+': operator.add,
